@@ -7,3 +7,4 @@ i will commit this via vs code.
 
 
 practise git stuff 
+#edited for Azure
